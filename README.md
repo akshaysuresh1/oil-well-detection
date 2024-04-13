@@ -6,7 +6,7 @@
 
 **Modeling approach:**
 
-![Workflow](https://github.com/akshaysuresh1/oil-well-detection/blob/main/images/approach.png?raw=True)
+![Workflow](https://github.com/akshaysuresh1/oil-well-detection/blob/main/misc_images/approach.png?raw=True)
 
 ---
 
